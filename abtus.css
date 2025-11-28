@@ -1,4 +1,4 @@
-@import url("/html/css/style.css");
+@import url("abtus.html");
 
 /* Center hero content only on the About Us page */
 .hero {
@@ -929,4 +929,5 @@ h1, h2, h3, h4 {
     .newsletter-form {
         flex-direction: column;
     }
+
 }
