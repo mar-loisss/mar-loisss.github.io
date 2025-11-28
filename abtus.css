@@ -1,4 +1,4 @@
-@import url("abtus.css");
+@import url("style.css");
 
 /* Center hero content only on the About Us page */
 .hero {
@@ -931,4 +931,5 @@ h1, h2, h3, h4 {
     }
 
 }
+
 
