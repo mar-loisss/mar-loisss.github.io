@@ -1,4 +1,4 @@
-@import url("/html/css/style.css");
+@import url("style.css");
 
 /* Tickets Page Specific Styles */
 
@@ -1323,3 +1323,4 @@ footer::before {
         transform: translateY(0);
     }
 }
+
